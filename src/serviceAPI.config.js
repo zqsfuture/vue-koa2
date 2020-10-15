@@ -1,4 +1,4 @@
-const BASEURL = "https://www.easy-mock.com/mock/5b7f6bf31ec0a8656a2a9008/smileVue/"
+const BASEURL = " https://easy-mock.com/mock/5d5cf4190c6d93537695ea4c/smileVue/"
 const LOCALURL = "http://localhost:3000/"
 const URL = {
   getShopingMallInfo: BASEURL + "index",  //商城首页全部信息
